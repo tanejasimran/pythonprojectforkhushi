@@ -1,0 +1,119 @@
+atomic_number,element_symbol,element_name,property
+1,H,Hydrogen,nonmetal
+2,He,Helium,noble gas
+3,Li,Lithium,alkali metal
+4,Be,Beryllium,alkaline earth metal
+5,B,Boron,metalloid
+6,C,Carbon,nonmetal
+7,N,Nitrogen,nonmetal
+8,O,Oxygen,nonmetal
+9,F,Fluorine,halogen
+10,Ne,Neon,noble gas
+11,Na,Sodium,alkali metal
+12,Mg,Magnesium,alkaline earth metal
+13,Al,Aluminum,metal
+14,Si,Silicon,metalloid
+15,P,Phosphorus,nonmetal
+16,S,Sulfur,nonmetal
+17,Cl,Chlorine,halogen
+18,Ar,Argon,noble gas
+19,K,Potassium,alkali metal
+20,Ca,Calcium,alkaline earth metal
+21,Sc,Scandium,transition metal
+22,Ti,Titanium,transition metal
+23,V,Vanadium,transition metal
+24,Cr,Chromium,transition metal
+25,Mn,Manganese,transition metal
+26,Fe,Iron,transition metal
+27,Co,Cobalt,transition metal
+28,Ni,Nickel,transition metal
+29,Cu,Copper,transition metal
+30,Zn,Zinc,transition metal
+31,Ga,Gallium,metal
+32,Ge,Germanium,metalloid
+33,As,Arsenic,metalloid
+34,Se,Selenium,nonmetal
+35,Br,Bromine,halogen
+36,Kr,Krypton,noble gas
+37,Rb,Rubidium,alkali metal
+38,Sr,Strontium,alkaline earth metal
+39,Y,Yttrium,transition metal
+40,Zr,Zirconium,transition metal
+41,Nb,Niobium,transition metal
+42,Mo,Molybdenum,transition metal
+43,Tc,Technetium,transition metal
+44,Ru,Ruthenium,transition metal
+45,Rh,Rhodium,transition metal
+46,Pd,Palladium,transition metal
+47,Ag,Silver,transition metal
+48,Cd,Cadmium,transition metal
+49,In,Indium,metal
+50,Sn,Tin,metal
+51,Sb,Antimony,metalloid
+52,Te,Tellurium,metalloid
+53,I,Iodine,halogen
+54,Xe,Xenon,noble gas
+55,Cs,Cesium,alkali metal
+56,Ba,Barium,alkaline earth metal
+57,La,Lanthanum,lanthanoid
+58,Ce,Cerium,lanthanoid
+59,Pr,Praseodymium,lanthanoid
+60,Nd,Neodymium,lanthanoid
+61,Pm,Promethium,lanthanoid
+62,Sm,Samarium,lanthanoid
+63,Eu,Europium,lanthanoid
+64,Gd,Gadolinium,lanthanoid
+65,Tb,Terbium,lanthanoid
+66,Dy,Dysprosium,lanthanoid
+67,Ho,Holmium,lanthanoid
+68,Er,Erbium,lanthanoid
+69,Tm,Thulium,lanthanoid
+70,Yb,Ytterbium,lanthanoid
+71,Lu,Lutetium,transition metal
+72,Hf,Hafnium,transition metal
+73,Ta,Tantalum,transition metal
+74,W,Tungsten,transition metal
+75,Re,Rhenium,transition metal
+76,Os,Osmium,transition metal
+77,Ir,Iridium,transition metal
+78,Pt,Platinum,transition metal
+79,Au,Gold,transition metal
+80,Hg,Mercury,transition metal
+81,Tl,Thallium,metal
+82,Pb,Lead,metal
+83,Bi,Bismuth,metal
+84,Po,Polonium,metalloid
+85,At,Astatine,halogen
+86,Rn,Radon,noble gas
+87,Fr,Francium,alkali metal
+88,Ra,Radium,alkaline earth metal
+89,Ac,Actinium,actinoid
+90,Th,Thorium,actinoid
+91,Pa,Protactinium,actinoid
+92,U,Uranium,actinoid
+93,Np,Neptunium,actinoid
+94,Pu,Plutonium,actinoid
+95,Am,Americium,actinoid
+96,Cm,Curium,actinoid
+97,Bk,Berkelium,actinoid
+98,Cf,Californium,actinoid
+99,Es,Einsteinium,actinoid
+100,Fm,Fermium,actinoid
+101,Md,Mendelevium,actinoid
+102,No,Nobelium,actinoid
+103,Lr,Lawrencium,transition metal
+104,Rf,Rutherfordium,transition metal
+105,Db,Dubnium,transition metal
+106,Sg,Seaborgium,transition metal
+107,Bh,Bohrium,transition metal
+108,Hs,Hassium,transition metal
+109,Mt,Meitnerium,transition metal
+110,Ds,Darmstadtium,transition metal
+111,Rg,Roentgenium,transition metal
+112,Cn,Copernicium,transition metal
+113,Uut,Ununtrium,metal
+114,Uuq,Ununquadium,metal
+115,Uup,Ununpentium,halogen
+116,Uuh,Ununhexium,noble gas
+117,Uus,Ununseptium,alkali metal
+118,Uuo,Ununoctium,alkaline earth metal
